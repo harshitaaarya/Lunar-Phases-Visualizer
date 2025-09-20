@@ -18,7 +18,7 @@ A visually stunning lunar phase calendar built with HTML, CSS, and JavaScript. U
 ## Installation / Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Lunar-Phase-Calendar.git
+   git clone https://github.com/harshitaaarya/Lunar-Phase-Calendar.git
 Open index.html in any modern web browser.
 
 Select a date to see the moon’s phase.
